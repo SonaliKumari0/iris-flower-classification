@@ -1,6 +1,4 @@
 # iris-flower-classification
-# iris-flower-classification
-
 This project implements a machine learning model to classify iris flowers into three species (setosa, versicolor, virginica) using Python.
 
 ## Project Overview
